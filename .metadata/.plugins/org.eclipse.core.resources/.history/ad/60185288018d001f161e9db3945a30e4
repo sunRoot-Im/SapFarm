@@ -1,0 +1,26 @@
+package JcoTest;
+
+public class FirstJcoTest {
+
+    static {
+        // 네이티브 라이브러리 경로 설정 (DLL 파일 경로 지정)
+        System.setProperty("java.library.path", "C:/Users/zasu1/OneDrive/Desktop/eclipse/nation");
+        
+        // 경로 설정 후 System에 반영
+        try {
+            // java.library.path 속성을 System에 반영하도록 설정
+            java.lang.reflect.Field fieldSysPath = ClassLoader.class.getDeclaredField("sys_paths");
+            fieldSysPath.setAccessible(true);
+            fieldSysPath.set(null, null);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void main(String[] args) {
+        // SAP JCo 관련 코드 추가
+        System.out.println("SAP JCo 연결 테스트 시작");
+
+        // 여기에 SAP JCo 연결 및 테스트 코드 추가
+    }
+}

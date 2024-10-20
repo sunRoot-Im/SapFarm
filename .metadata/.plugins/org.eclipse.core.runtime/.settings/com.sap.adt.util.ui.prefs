@@ -1,0 +1,11 @@
+//com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.desription.CLAS/OC=z11_047\r
+//com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.desription.DEVC/K=test\r
+//com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.desription.PROG/P=test\rtest memory\r
+//com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.name.CLAS/OC=Z11_01_047\r
+//com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.name.DEVC/K=ZABAP_\rZABAP_047_CH112\r
+//com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.name.PROG/P=PROGRAM2\rSAPMEMORY\r
+com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.PackageSoftwareComponent=HOME\r
+com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.PackageSuperPackage=SUBPACKAGE\r
+com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.package.context=ZABAP_\rZABAP_047_CH11\rZABAP_047_CH112\r
+com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.tools.core.project.IAbapProject=zu-047\r
+eclipse.preferences.version=1
